@@ -1,4 +1,3 @@
-# Banking-Management-System
 It's a GUI-based project used to manage banking system
 <div align = "center">
     <h1>BANKING MANAGEMENT SYSTEM</h1>
